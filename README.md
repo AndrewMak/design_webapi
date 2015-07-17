@@ -1,5 +1,7 @@
 # design_webapi
 
-Material utilizado na trilha de design de serviços REST com ASP.NET Web API que escrevi no meu blog.
+Solução utilizada na série de posts que fiz em meu [Blog] (http:\\ntakashi.net), mostrando designe de uma API REST com ASP.NET WEB API.
 
-Blog: http://ntakashi.net/
+## Antes de executar a solução.
+
+É necessário executar o comando **Update-Database** no **Package Manager Console**
